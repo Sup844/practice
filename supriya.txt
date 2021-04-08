@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i m on my master branch
+=======
+i m on my child branch
+>>>>>>> child
